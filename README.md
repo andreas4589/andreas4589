@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Andreas Meeldijk
 
-<!--
-**andreas4589/andreas4589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI student with a focus on data science, machine learning, and optimization.  
+💻 Passionate about building smart, efficient systems that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🧠 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Garbage Route Optimizer](https://github.com/andreas4589/garbage-routing) – Solved with Simulated Annealing and 2-opt.
+- [Pac-Man in Haskell](https://github.com/andreas4589/haskell-pacman) – Functional game built in Haskell.
+- [Statistical Analysis in R](https://github.com/andreas4589/stats-project) – Real data, hypothesis testing in R.
+
+## 📫 Contact
+- [GitHub](https://github.com/andreas4589)
+- [LinkedIn](https://www.linkedin.com/in/andreasmeeldijk)
