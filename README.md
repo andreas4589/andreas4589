@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Andreas Meeldijk
 
-## 🧠 Projects
+## Personal Projects
+- [Heart Disease Prediction](https://github.com/andreas4589/heart-disease-prediction) - Build a custom ANN from scratch and trained it on a Heart Disease dataset
+- [Data cleaning in SQL](https://github.com/andreas4589/datacleaning_layoffs) - Cleaning a layoff dataset of different companies.
+- [Data analysis in SQL](https://github.com/andreas4589/analysis_layoffs) - Analyzing a layoff dataset of different companies.
+- [Data visualization in PowerBI](https://github.com/andreas4589/datasurvey_analysis) - Visualizing a survey data set in PowerBI.
+
+## University Projects
 
 - [Datastructures and Algorithms for Kunstmatige Intelligentie](https://github.com/andreas4589/DAKI) – Solved with Simulated Annealing and 2-opt.
 - [Pac-Man in Haskell](https://github.com/andreas4589/haskell-pacman) – Functional game built in Haskell.
