@@ -22,4 +22,4 @@
 ## 📫 Contact
 - [GitHub](https://github.com/andreas4589)
 - [LinkedIn](https://www.linkedin.com/in/andreasmeeldijk)
-- [Portfolio](https://andreas4589.github.io/)
+  <!-- - [Portfolio](https://andreas4589.github.io/) -->
